@@ -1,3 +1,9 @@
+# project-specific
+_*
+_link
+coverage.out
+badge.svg
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
